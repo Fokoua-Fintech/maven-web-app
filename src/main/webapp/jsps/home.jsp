@@ -12,7 +12,7 @@
 <h1 align="center">Weelcome to Landmark Technologies</h1>
 <h2 align="center">  
 	Landmark Technology is a an ideal online training  platform for DevOps and Cloud Engineers. 
-	Class26 is in session at this time and the new session is in preparation.
+	Class26 is in session at this time and the new session is to come.
 	The shout of the King Jesus is in our midst. HE IS OUR SUCCESS ACCESS KEY</h2>
 <hr>
 <div style="text-align: center;">
