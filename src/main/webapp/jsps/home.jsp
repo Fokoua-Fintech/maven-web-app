@@ -13,6 +13,7 @@
 <h2 align="center"> Supporting Ebay Black Friday project.  
 	Landmark Technology is a an ideal online training platform for DevOps and Cloud Engineers. 
 	Class26 is in session now. New Batch is in preparartion. Love what you do, hard work always pay off.
+	Good Things last long.
 	The shout of the King Jesus is in our midst. HE IS OUR SUCCESS ACCESS KEY</h2>
 <hr>
 <div style="text-align: center;">
